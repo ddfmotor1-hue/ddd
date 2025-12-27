@@ -1,0 +1,5 @@
+requests
+eel
+flask
+re
+jsonify
